@@ -1,16 +1,11 @@
 Goldsvet Open Source
+Slots, bet and more on this script
 
 This version comes with support for:
 - Laravel 8
 - PHP 7.3
 - Node.js 16
 - PM2
-- Redis
-
-Also includes plugin support for:
-- Sports Betting
-- Crypto Competitions
-- Stock Competitions
 
 > **Note:** Games are available here 📩 **Telegram:** [@n0_Signall](https://t.me/n0_Signall)
 
@@ -48,6 +43,8 @@ php artisan key:generate
 execute the .sql file on phpmyadmin
 Bash
 php artisan migrate
+
+For Admin account modify the password on db SQL with this encrypt: https://bcrypt-generator.com/
 
 ## 🎮 Additional Content / Game Assets
 
