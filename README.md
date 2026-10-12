@@ -12,7 +12,7 @@ Also includes plugin support for:
 - Crypto Competitions
 - Stock Competitions
 
-> **Note:** Plugins and games are available for subscribers in Discord downloads. Subscribe: On our Discord, you will find updated files with games.
+> **Note:** Games are available here 📩 **Telegram:** [@n0_Signall](https://t.me/n0_Signall)
 
 ---
 
@@ -30,6 +30,7 @@ Here’s a guide for setting up the project on a typical aaPanel or virtualmin s
 - PHP 7.3 *(Composer required)*
 - Laravel 8
 - Node.js 16 & PM2
+- php imagemagick
 
 ### 2. Installation Steps
 1. **Enable SSL:** Force SSL for your domain.
