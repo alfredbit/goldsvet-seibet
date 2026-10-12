@@ -48,6 +48,12 @@ execute the .sql file on phpmyadmin
 Bash
 php artisan migrate
 
+## 🎮 Additional Content / Game Assets
+
+If you need the full package with over **50 GB of games and assets**, feel free to reach out directly:
+
+📩 **Telegram:** [@n0_Signall](https://t.me/n0_Signall)
+
 PM2 Commands for WebSockets
 Tip: Check out the full PM2 Commands Guide for managing Node.js processes.
 Inside the PTWEBSOCKET folder, use the following commands: 
